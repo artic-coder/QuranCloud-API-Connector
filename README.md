@@ -1,4 +1,4 @@
-![cover_logo](https://github.com/haseeb-heaven/QC-API-Connector/blob/master/resources/quran_cloud.jpg?raw=true "")
+![cover_logo](https://github.com/haseeb-heaven/QuranCloud-API-Connector/blob/master/resources/quran_cloud.jpg?raw=true "")
 
 **_QC_**_-API-Connector_ is **[QuranCloud](https://alquran.cloud/) API Connector for _Quran Cloud service in c/c++_**
 It is specifically made for conntecting to API and getting _JSON_ data of Quran cloud format and provides efficient methods to
