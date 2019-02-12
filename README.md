@@ -16,6 +16,12 @@ _Mac_ : **brew install curl**</br>
 3)Fetches data using **CURL** tool on other OS like _Linux,MAC_.</br>
 4)Works with _large data_ sets also.</br>
 
+# How to compile on windows :
+You have to add **_WS-Library_** in your project by adding **'-l "ws2_32'** in compiler option if you are using IDE like **CodeBlocks,DevCPP**.</br>
+Or If you are using **Visual Studio** then add this line of code **_#pragma comment(lib, "ws2_32")_**</br>
+Or you can compile with **gcc** using this command **_gcc QuranCloudApp.c -o QuranCloudApp.exe -l "ws2_32_**</br>
+**_NOTE : ITS NOT NEEDED IF YOU USING OS OTHER THAN WINDOWS, COMPILE NORMALLY_**</br>
+
 # Connector Components :
 
 ## Connect with API : 
